@@ -1,0 +1,12 @@
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.csprojAssemblyReference.cache
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.AssemblyInfoInputs.cache
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.AssemblyInfo.cs
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/bin/Debug/netcoreapp3.1/TokenizerDesign.deps.json
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/bin/Debug/netcoreapp3.1/TokenizerDesign.runtimeconfig.json
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/bin/Debug/netcoreapp3.1/TokenizerDesign.runtimeconfig.dev.json
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/bin/Debug/netcoreapp3.1/TokenizerDesign.dll
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/bin/Debug/netcoreapp3.1/TokenizerDesign.pdb
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.dll
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.pdb
+/Users/rook/Projects/TokenizerDesign/TokenizerDesign/obj/Debug/netcoreapp3.1/TokenizerDesign.genruntimeconfig.cache

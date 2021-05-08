@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{02E13216-DB3D-4F8A-9897-EF8885777CE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tokenizzzer/Program.cs">
+    <Files>
+      <File FileName="Tokenizzzer/Program.cs" Line="49" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tokenizzzer" expanded="True">
+            <Node name="Tokenizzzer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tokenizzzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

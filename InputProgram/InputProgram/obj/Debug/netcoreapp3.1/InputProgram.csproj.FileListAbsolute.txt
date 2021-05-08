@@ -1,0 +1,12 @@
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.csprojAssemblyReference.cache
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.AssemblyInfoInputs.cache
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.AssemblyInfo.cs
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/InputProgram/InputProgram/bin/Debug/netcoreapp3.1/InputProgram.deps.json
+/Users/rook/Projects/InputProgram/InputProgram/bin/Debug/netcoreapp3.1/InputProgram.runtimeconfig.json
+/Users/rook/Projects/InputProgram/InputProgram/bin/Debug/netcoreapp3.1/InputProgram.runtimeconfig.dev.json
+/Users/rook/Projects/InputProgram/InputProgram/bin/Debug/netcoreapp3.1/InputProgram.dll
+/Users/rook/Projects/InputProgram/InputProgram/bin/Debug/netcoreapp3.1/InputProgram.pdb
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.dll
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.pdb
+/Users/rook/Projects/InputProgram/InputProgram/obj/Debug/netcoreapp3.1/InputProgram.genruntimeconfig.cache

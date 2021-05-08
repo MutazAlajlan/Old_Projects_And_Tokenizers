@@ -1,0 +1,12 @@
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/bin/Debug/netcoreapp3.1/2.Tokenizer.deps.json
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/bin/Debug/netcoreapp3.1/2.Tokenizer.runtimeconfig.json
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/bin/Debug/netcoreapp3.1/2.Tokenizer.runtimeconfig.dev.json
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/bin/Debug/netcoreapp3.1/2.Tokenizer.dll
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/bin/Debug/netcoreapp3.1/2.Tokenizer.pdb
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.csprojAssemblyReference.cache
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.AssemblyInfoInputs.cache
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.AssemblyInfo.cs
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.csproj.CoreCompileInputs.cache
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.dll
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.pdb
+/Users/rook/Desktop/DeepCode/2.Tokenizer/2.Tokenizer/obj/Debug/netcoreapp3.1/2.Tokenizer.genruntimeconfig.cache

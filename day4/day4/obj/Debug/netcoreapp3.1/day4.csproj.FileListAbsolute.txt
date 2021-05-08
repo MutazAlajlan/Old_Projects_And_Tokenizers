@@ -1,0 +1,12 @@
+/Users/rook/Projects/day4/day4/bin/Debug/netcoreapp3.1/day4.deps.json
+/Users/rook/Projects/day4/day4/bin/Debug/netcoreapp3.1/day4.runtimeconfig.json
+/Users/rook/Projects/day4/day4/bin/Debug/netcoreapp3.1/day4.runtimeconfig.dev.json
+/Users/rook/Projects/day4/day4/bin/Debug/netcoreapp3.1/day4.dll
+/Users/rook/Projects/day4/day4/bin/Debug/netcoreapp3.1/day4.pdb
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.csprojAssemblyReference.cache
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.AssemblyInfoInputs.cache
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.AssemblyInfo.cs
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.dll
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.pdb
+/Users/rook/Projects/day4/day4/obj/Debug/netcoreapp3.1/day4.genruntimeconfig.cache

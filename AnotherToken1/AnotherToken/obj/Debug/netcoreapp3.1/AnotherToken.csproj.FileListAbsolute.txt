@@ -1,0 +1,12 @@
+/Users/rook/Desktop/AnotherToken/AnotherToken/bin/Debug/netcoreapp3.1/AnotherToken.deps.json
+/Users/rook/Desktop/AnotherToken/AnotherToken/bin/Debug/netcoreapp3.1/AnotherToken.runtimeconfig.json
+/Users/rook/Desktop/AnotherToken/AnotherToken/bin/Debug/netcoreapp3.1/AnotherToken.runtimeconfig.dev.json
+/Users/rook/Desktop/AnotherToken/AnotherToken/bin/Debug/netcoreapp3.1/AnotherToken.dll
+/Users/rook/Desktop/AnotherToken/AnotherToken/bin/Debug/netcoreapp3.1/AnotherToken.pdb
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.csprojAssemblyReference.cache
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.AssemblyInfoInputs.cache
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.AssemblyInfo.cs
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.csproj.CoreCompileInputs.cache
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.dll
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.pdb
+/Users/rook/Desktop/AnotherToken/AnotherToken/obj/Debug/netcoreapp3.1/AnotherToken.genruntimeconfig.cache

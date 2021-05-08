@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{59BCB8E8-DBF7-41F1-BD22-B4FC4549E8AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.TokenizerThird FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TokenizerThird/Program.cs">
+    <Files>
+      <File FileName="TokenizerThird/Program.cs" Line="184" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TokenizerThird" expanded="True">
+            <Node name="TokenizerThird" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
